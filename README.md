@@ -1,5 +1,5 @@
 # landing-page-movie
-Projeto desenvolvido na Escola de Habilidades Digitais Digital College. Criação de landgin page baseada num layout da plataforma CodeInStages.  HTML, CSS e TAILWIND. 
+Projeto desenvolvido na Escola de Habilidades Digitais Digital College. Criação de landgin page baseada num layout da plataforma [CodeInStages](https//codeinstages.com/).  HTML, CSS e TAILWIND. 
 
 ## Visão Geral
 
